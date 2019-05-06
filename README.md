@@ -5,7 +5,7 @@
 
 This repository contains an implementation of the multiple agent version of the Deep Deterministic Policy Gradient (DDPG) algorithm described in [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275). The implementation has been done in PyTorch, in the Unity environment called [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis), where two agents try to pass the ball over the net.
 
-![tennis](https://github.com/manuelsh/continuous-control-reinforcement-learning/blob/master/images/reacher.gif)
+![tennis](https://raw.githubusercontent.com/manuelsh/multi-agent-reinforcement-learning/master/images/tennis_unity.gif)
 
 See more information about the environment in the section **Environment details**.
 

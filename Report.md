@@ -50,7 +50,7 @@ The neural network representing the actor and the critic are composed by 2 layer
 
 The model arrives to the result after 720 episodes and the score of the plot is:
 
-![score plot](https://github.com/manuelsh/continuous-control-reinforcement-learning/blob/master/images/results.png)
+![score plot](https://raw.githubusercontent.com/manuelsh/multi-agent-reinforcement-learning/master/images/results.png)
 
 where the orange line represents the average over the previous 100 episodes (or less episodes if not available), and the blue line represents the score at that episode.
 
@@ -62,6 +62,5 @@ There are a few next steps that can be researched:
 
 1. Use a shared representation for the critic and the actor, with different output.
 2. Solve the soccer environment.
-3. Apply the branching Dueling Q-Network as presented in https://arxiv.org/pdf/1711.08946.pdf
 
 In a personal note, I have enjoyed this project very much, and also the fact that there is so much to learn and try.
